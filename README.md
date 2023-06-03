@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  Spellbook of Modern Web Dev
+  Spellbook of Modern Web Dev【现代Web开发魔法全书】
 </h1>
 
 <div align="center">
